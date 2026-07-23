@@ -69,6 +69,16 @@ Signal in → pipeline out, minus the 15 disconnected tools and the busywork.
 **Allergic to**
 - growth-hacking, "just circling back," and treating developers like a funnel.
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sjocclare-droid/sjocclare-droid/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sjocclare-droid/sjocclare-droid/output/snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/sjocclare-droid/sjocclare-droid/output/snake.svg" width="100%">
+</picture>
+
+</div>
+
 ---
 
 <div align="center">
