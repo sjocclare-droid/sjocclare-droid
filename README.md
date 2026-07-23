@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=sjocclare-droid&style=for-the-badge&color=00FFE6&labelColor=000000&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=AIDevGTM&style=for-the-badge&color=00FFE6&labelColor=000000&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -72,9 +72,9 @@ Signal in → pipeline out, minus the 15 disconnected tools and the busywork.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sjocclare-droid/sjocclare-droid/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sjocclare-droid/sjocclare-droid/output/snake.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/sjocclare-droid/sjocclare-droid/output/snake.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AIDevGTM/AIDevGTM/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AIDevGTM/AIDevGTM/output/snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/AIDevGTM/AIDevGTM/output/snake.svg" width="100%">
 </picture>
 
 </div>
