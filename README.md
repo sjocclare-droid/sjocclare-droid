@@ -35,7 +35,7 @@ Signal in → pipeline out, minus the 15 disconnected tools and the busywork.
 - Positioning & messaging that survives contact with a skeptical engineer
 - Founder-led outbound that reads like a person, not a sequence
 - Channel strategy — HN, Reddit, docs, OSS-led, PLG — the right ones, not all of them
-- Turning anonymous intent into real pipeline, inside the CRM reps already live in
+- Building something to help turn anonymous intent into real pipeline
 
 **The GTM stack I run**
 
