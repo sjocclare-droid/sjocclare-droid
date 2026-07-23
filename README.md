@@ -6,6 +6,12 @@
 
 <img src="https://komarev.com/ghpvc/?username=sjocclare-droid&style=for-the-badge&color=0F7A5C&label=PROFILE+VIEWS"/>
 
+<br/><br/>
+
+<a href="https://thedevtoolgtmcompany.com"><img src="https://img.shields.io/badge/The%20Dev%20Tool%20GTM%20Company-0F7A5C?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://www.qcgrowth.com"><img src="https://img.shields.io/badge/QC%20Growth%20%28advisor%29-14A377?style=for-the-badge&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/devtoolgtm/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
 </div>
 
 ---
@@ -52,8 +58,9 @@ Signal in → pipeline out, minus the 15 disconnected tools and the busywork.
 </p>
 
 **Currently**
-- Prototyping GTM systems for dev tools — most recently a CRM-agnostic *revenue signal
-  layer* that scores intent and routes hot accounts to reps automatically.
+- **Founder** of [The Dev Tool GTM Company](https://thedevtoolgtmcompany.com) — go-to-market advisory for developer-first startups.
+- **Fractional GTM advisor** at [QC Growth](https://www.qcgrowth.com).
+- Building on the side — most recently a CRM-agnostic *revenue signal layer* that scores intent and routes hot accounts to reps automatically.
 
 **Allergic to**
 - growth-hacking, "just circling back," and treating developers like a funnel.
@@ -64,6 +71,6 @@ Signal in → pipeline out, minus the 15 disconnected tools and the busywork.
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="dev quote"/>
 
-<sub>📡 open to DMs · <a href="#">LinkedIn</a> · <a href="#">site</a></sub>
+<sub>📡 <a href="https://thedevtoolgtmcompany.com">thedevtoolgtmcompany.com</a> · <a href="https://www.linkedin.com/in/devtoolgtm/">LinkedIn</a> · open to DMs</sub>
 
 </div>
