@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&pause=1000&color=00FFE6&background=000000&center=true&vCenter=true&width=1000&height=130&lines=Shane+O%27Connor&repeat=false" alt="Shane O'Connor"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=00FFE6&center=true&vCenter=true&width=780&lines=go-to-market+for+developer+tools;signal+in+%E2%86%92+pipeline+out;I+make+dev+tools+sound+like+a+human+wrote+the+copy;positioning+%C2%B7+messaging+%C2%B7+founder-led+outbound" alt="what I do"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=00FFE6&center=true&vCenter=true&width=780&lines=go-to-market+for+AI+%26+developer+tools;signal+in+%E2%86%92+pipeline+out;I+make+AI+%26+dev+tools+sound+like+a+human+wrote+the+copy;positioning+%C2%B7+messaging+%C2%B7+founder-led+outbound" alt="what I do"/>
 
 <br/>
 
@@ -24,7 +24,7 @@
 
 ```bash
 $ whoami
-shane — go-to-market for ai & developer tools
+shane — go-to-market for AI & developer tools
 
 $ cat ~/what-i-actually-do.txt
 I make technical products sound like a human wrote the copy.
@@ -62,7 +62,7 @@ Signal in → pipeline out, minus the 15 disconnected tools and the busywork.
 </p>
 
 **Currently**
-- **Founder** of [The DevTool GTM Company](https://thedevtoolgtmcompany.com) — go-to-market advisory for developer-first startups.
+- **Founder** of [The DevTool GTM Company](https://thedevtoolgtmcompany.com) — go-to-market advisory for AI & developer-first startups.
 - **Fractional GTM advisor** at [QC Growth](https://www.qcgrowth.com).
 - Building on the side — most recently a CRM-agnostic *revenue signal layer* that scores intent and routes hot accounts to reps automatically.
 
